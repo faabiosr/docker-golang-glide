@@ -6,10 +6,10 @@ Golang docker image with Glide Package Management
 
 ### Build the image
 
-To create the image `fabiorphp/golang-glide`, execute the following command on the `docker-golang-glide/1.8` folder:
+To create the image `fabiorphp/golang-glide`, execute the following command on the `docker-golang-glide/1.X` folder:
 
 ```
-$ docker build -t fabiorphp/golang-glide 1.8/
+$ docker build -t fabiorphp/golang-glide 1.X/
 ```
 
 ### Run the image
